@@ -6,6 +6,6 @@ I am passionate about solving problems using programming. And I'm on my journey 
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using React
  <br/> :blush: &nbsp; I can help you with CSS, HTML, javascript and react
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js, React Native;
- <br/> :email: &nbsp; Entre em contato comigo: [Linkedin Badge](https://www.linkedin.com/in/filipe-lacerda-31a881183/) 
+ <br/> :email: &nbsp; Contact me: [Linkedin](https://www.linkedin.com/in/filipe-lacerda-31a881183/) 
 | 
-[Gmail Badge](mailto:filipeelacerda@gmail.com)
+[Gmail](mailto:filipeelacerda@gmail.com)
