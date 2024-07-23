@@ -1,7 +1,7 @@
 # Filipe Lacerda
 
 ## Hello guys 👋
-I am passionate about solving problems using programming. I currently work as a fullstack developer At ACT Digital allocated at Sicoob. :computer:
+I am passionate about solving problems using programming. I currently work as a fullstack developer At Sicoob. :computer:
 
  <br/> :purple_heart: &nbsp; Seeking to collaborate with Front-end projects using Angular
  <br/> :blush: &nbsp; I can help you with CSS, HTML, javascript, angular and ngrx
